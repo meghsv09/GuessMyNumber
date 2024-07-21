@@ -11,4 +11,4 @@ This program genearates the number between 1 to 20, you would need to guess the 
 - 'Score' defines your current score in the game.
 - HighScore'🏅 defines the highest score you have achieved while playing the game.
 
-  Good luck! ☺️
+Play here: 
