@@ -1,6 +1,6 @@
 Interactive game 🎯 built using HTML/CSS and Javascript. 
 
-This program genearates the number between 1 to 20, you would need to guess the number it generates 🎰.
+This program genearates the number between 1 to 20, you would need to guess the correct number 🎰.
 
 **Playing instructions:**
 - Enter a number between 1 to 20 in the input box.
